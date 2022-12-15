@@ -76,10 +76,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: coding makes me happy
       items: 
-        - Description 1.
-        - Description 2.
+        - software development.
+        - machine learning.
 
 - title: Other Interests
   type: list
