@@ -53,6 +53,12 @@ layout: default
           {%- endif %}
 
           {% if page.news -%}
+          <!-- Service -->
+          <hr>
+          {%- include service.html %}
+          {%- endif %}
+
+          {% if page.news -%}
           <!-- Awards -->
           <hr>
           {%- include awards.html %}
