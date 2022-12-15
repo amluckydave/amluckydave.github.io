@@ -9,7 +9,7 @@ profile:
   image: eliot-xu.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Xia Men, CHINA</p>
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
