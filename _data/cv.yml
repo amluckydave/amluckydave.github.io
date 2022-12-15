@@ -33,35 +33,33 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Huaqiao University (Advisor | Prof. Tingping Lei)
+      year: 2014 - 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed the electrospinning experiment to figure out the roles of solution jet and other governing parameters played
+        - Utilized gap electrospinning technique we achieved in producing meter-long aligned nanofibers
+        - Conducted experiments in separating oil/water mixtures using self-made mental mesh coated with specific materials
+        - Proposed an innovative 3D conversion model and realized in separation the mixtures
+
+    - title: Graduate Student
+      institution: Shanghai University (Supervisor | Prof. Linyong Shen)
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Developed an optimization model on real-time hand prediction based on sEMG signals
+        - Provided a solution to improve the reliability, cost-efficiency and real-time recognition performance in Myo-electric multi-DOFs prosthetic application
+        - Bio-signal acquisition system development & relevant experiment design and conducting
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: PhD. Candidate
+      institution: Xiamen University (Quitted)
+      year: 2021 - 2022
       description:
+        - Proposed a positive design strategy with hyperelastic model for developing sensitivity tuned flexible pressure sensor
+        - Fabricated prototype sensor verified its ultra-low sensitivity error on targeted requirement over 200 kPa
+        - Applied the proposed sensor in physiological signal recognition via machine learning
+        - Lead a research group for developing the high temperature-resistant flexible sensor array for aerospace application
+        - Conducted experiments on developing ultrahigh temperature-resistance flexible sensor based on EGaIn composites
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
