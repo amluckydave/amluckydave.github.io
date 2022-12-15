@@ -63,9 +63,15 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/amluckydave/shuClient">shuClient</a>
+      year: 2019-2020
+      description: linkSHU - The customised VPN client for Shanghai University
+    - title: <a href="https://github.com/amluckydave/GO-MYO">GO-MYO</a>
+      year: 2020
+      description: GO MYO | Online Training & Predicting Hand Gestures
+    - title: <a href="https://github.com/amluckydave/pyMyo">pyMyo</a>
+      year: 2020
+      description: Online Data Collector from Myo-armband on Real Time
 
 - title: Academic Interests
   type: nested_list
