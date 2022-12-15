@@ -79,5 +79,17 @@ let initTheme = (theme) => {
   setTheme(theme);
 }
 
+// Dark mode automatically
+// get current user time
+currentTime = new Date().getHours();
+
+window.addEventListener("load", function() {
+  // Check if the current time is between 6am and 6pm
+  if(currentTime >= 8 && currentTime < 22) {
+    setTheme("light");
+  }else {
+    setTheme("dark");
+  }
+})
 
 initTheme(localStorage.getItem("theme"));
