@@ -15,18 +15,15 @@
       institution: Shanghai University (211 project), CHINA
       year: 2018.09-2021.04
       description:
-        - Advisor: Prof. Linyong Shen, Prof. Zhen Zhang
-        - GPA: 3.89/4.0
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Advisor | Prof. Linyong Shen, Prof. Zhen Zhang
+        - GPA | 3.89/4.0 (Top 5%)
+        - Course | Programming with MATLAB, C++ primer, Programming with Python, Machine learning
     - title: Bachelor of Mechanical Engineering
       institution: Huaqiao University
       year: 2014.09-2018.07
       description:
-        - Description 1.
-        - Description 2.
+        - Academic Advisor | Prof. Tingping Lei, Prof. Xiaomei Cai
+        - GPA | 4.3/5.0 (Top 2%)
     - title: PhD. candidate of Mechanical Engineering (QUIT)
       institution: Xiamen University (985 project), CHINA
       year: 2021.09-2022.12
