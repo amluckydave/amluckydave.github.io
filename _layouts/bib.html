@@ -12,6 +12,7 @@
         {%- endif -%}
 
         {%- if entry.abbr -%}
+          <div class="abbr">
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.abbr].color != blank -%}
@@ -21,6 +22,7 @@
           {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
+          </div>
         {%- endif -%}
         </div>
 
