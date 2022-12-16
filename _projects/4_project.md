@@ -1,80 +1,83 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: shuClient for campus network
+description: The customised VPN client for Shanghai University
+img: assets/img/projects/04_shu_client/01.png
+importance: 4
+category: Master
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+![https://github.com/Holaplace/shuClient?raw=true](https://raw.githubusercontent.com/Holaplace/shuClient/master/linkSHU.jpg?raw=true)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+# <p align="center">linkSHU</p>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<p align="center">
+      <a href="https://github.com/Holaplace/shuClient"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+      <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.5-FF1493.svg"></a>
+      <a href="https://github.com/Holaplace/shuClient"><img src="https://img.shields.io/github/repo-size/Holaplace/shuClient"></a>
+      <a href="https://github.com/Holaplace/shuClient/stargazers"><img src="https://img.shields.io/github/stars/Holaplace/shuClient.svg?logo=github"></a>
+      <a href="https://opensource.org/licenses/GPL-3.0/"><img src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103"></a>
+      <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+</p>
+<br />
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+## :building_construction: Introduction
+
+linkSHU 上海大学校园网有线连接客户端.
+
+Designed By @[amluckydave](https://github.com/amluckydave)
+<br />
+
+## :rocket: Progressing
+欢迎对本项目提交“Issues”帮助我完善脚本;
+
+目前支持 **有线无线alpha版**、**有线以太网** 及 **WIFI** 连接.
+
+国内极速下载地址: https://holaplace.lanzous.com/i7rsipa
+
+## :pencil: For Windows
+### How to Use
+
+### Step 1
+
+% 免安装，下载release中.exe文件，保存在桌面即可.
+
+### Step 2
+
+% 双击打开文件，输入 用户名 和 密码 即可.
+
+% Note: 根据个人需要是否 记住密码 和自动登录.
+
+### Step 3
+
+% 开机自动开启linkSHU.exe:
+
+[1] 下载release中对应脚本文件(.bat)
+
+[2] 保存至桌面，双击打开即可，只至该脚本自动退出
+
+[3] 删除开机自启动，点击[下载脚本](https://github-production-release-asset-2e65be.s3.amazonaws.com/206237670/ea9bbd00-d320-11e9-8aaa-a7560a506c02?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190909%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190909T085057Z&X-Amz-Expires=300&X-Amz-Signature=31a15b3904e7cf86f7b043e17e44363e38acf4b15e61b28fe6ce2ded18c7c121&X-Amz-SignedHeaders=host&actor_id=45121260&response-content-disposition=attachment%3B%20filename%3DremoveInk.bat&response-content-type=application%2Foctet-stream)，双击打开后，删除目标快捷方式即可(.ink)
+
+## :pushpin: Note
+
+### 生成配置文件相关
+
+% 登录之后，文件会自动生成 config.ini 和 catch_data.json 两个文件.
+
+% config.ini 保存 用户名、密码、记住密码、自动登录
+
+% catch_data.json 保存requests.post需要的 data文件
+
+% 上述文件
+
+--> alpha整合版、有线端 与 wifi端 配置文件 均保存在 C:\Users\你的用户名\linkSHU
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### 相关参考
 
+% 网络认证相关: @hwenwur | RuijieAutoConnect
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+% 图标来自: @ChunWai振玮 | iconfont.com
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+![https://github.com/Holaplace/shuClient?raw=true](https://raw.githubusercontent.com/Holaplace/shuClient/master/alpha%20version.jpg?raw=true)
