@@ -2,7 +2,7 @@
 layout: page
 title: Wearable Electronics
 description: modified hyperelastic model and extended customised scenarios
-img: assets/img/projects/01_sensor_model/01.png
+img: assets/img/projects/01_sensor_model/01preview.png
 importance: 1
 category: PhD
 ---
@@ -18,6 +18,19 @@ Based on the superior electromechanical performance of these sensors, potential 
 </div>
 <div class="caption">
     Design Concept and Sensing Mechanism of the Sensitivity-Customized Sensor.
+</div>
+
+Machine learning combined with gestural pressure data has been proven to be an effective approach to identify subjects’ intentions through specific hand movements. 
+
+Herein, we have adopted a three-layer back propagation (BP) neural network for gesture classification, and raw signals have been captured previously to further demonstrate the precise feedback that our proposed sensor could achieve.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/01_sensor_model/02.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Application Demonstration of the Proposed Sensor.
 </div>
 
     ---
