@@ -19,3 +19,7 @@ Based on the superior electromechanical performance of these sensors, potential 
 <div class="caption">
     Design Concept and Sensing Mechanism of the Sensitivity-Customized Sensor.
 </div>
+
+    ---
+    Other details will be released after the formal publication.
+    ---
