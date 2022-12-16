@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Highly customizable sensitivity tuned flexible sensor
+title: Wearable Electronics
 description: modified hyperelastic model and extended customised scenarios
 img: assets/img/projects/01_sensor_model/01.png
 importance: 1
