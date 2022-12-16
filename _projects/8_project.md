@@ -1,7 +1,7 @@
 ---
 layout: page
-title: shu campus client
-description: The customised VPN client for Shanghai University
+title: superwetting mesh
+description: A powerful strategy for effective and efficient oil/water separation
 img: assets/img/projects/08_oil_water/01.png
 importance: 8
 category: Bachelor
@@ -19,8 +19,7 @@ The idea of 2D -> 3D conversion of the membrane together with external pumping s
     </div>
 </div>
 <div class="caption">
-    2D → 3D conversion of superwetting mesh: A simple but powerful strategy
-for effective and efficient oil/water separation
+    2D → 3D conversion of superwetting mesh: A simple but powerful strategy for effective and efficient oil/water separation
 </div>
 
 <div class="row">
