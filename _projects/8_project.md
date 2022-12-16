@@ -1,7 +1,7 @@
 ---
 layout: page
 title: superwetting mesh
-description: A powerful strategy for effective and efficient oil/water separation
+description: A powerful strategy for efficient oil/water separation
 img: assets/img/projects/08_oil_water/01.png
 importance: 8
 category: Bachelor
