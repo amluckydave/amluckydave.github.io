@@ -46,7 +46,7 @@ You can check the media files about the real-time experiment below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-         <img src="/assets/img/projects/04_go_myo/04.gif" alt="" width=70% />
+         <img src="/assets/img/projects/04_go_myo/04.gif" alt="" />
     </div>
 </div>
 <div class="caption">
