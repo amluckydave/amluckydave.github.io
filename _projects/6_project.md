@@ -4,6 +4,7 @@ title: shu campus client
 description: The customised VPN client for Shanghai University
 img: assets/img/projects/06_shu_client/01.png
 importance: 6
+github: https://github.com/amluckydave/shuClient
 category: Master
 ---
 

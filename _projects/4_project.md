@@ -4,6 +4,7 @@ title: GO-MYO prediction
 description: Online Training & Predicting Hand Gestures.
 img: assets/img/projects/04_go_myo/01.png
 importance: 4
+github: https://github.com/amluckydave/GO-MYO
 category: Master
 ---
 GO MYO: Online Training & Predicting Hand Gestures.
@@ -27,7 +28,6 @@ Then, you can move to Prediction period. If you had trained your classifier, you
     pyMyo - Gesture information capture system
 </div>
 
-📝 **_Predicting_** |
 You should initialize the prediction model with the trained data (weights, default options etc.) titled with "CL.h5". Then, just connect the MYO armband, and do the predicting. To evaluate the real-time performance, you can check the LCD module (milli seconds) which stands for the duration between gesture begining and result generating.
 
 <div class="row justify-content-sm-center">
