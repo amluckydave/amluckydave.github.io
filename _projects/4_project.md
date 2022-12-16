@@ -47,7 +47,7 @@ You can check the media files about the real-time experiment below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/04_go_myo/04.gif title="example image" class="img-fluid rounded z-depth-1" %}
+         <img src="assets/img/projects/04_go_myo/04.gif" alt=""/>
     </div>
 </div>
 <div class="caption">
