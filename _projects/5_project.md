@@ -19,5 +19,5 @@ Thanks in advance.
     </div>
 </div>
 <div class="caption">
-    pyMyo - real time data collector from Mro-armband
+    pyMyo - real time data collector from Myo-armband
 </div>
