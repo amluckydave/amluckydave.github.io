@@ -24,11 +24,6 @@
       description:
         - Academic Advisor | Prof. Tingping Lei, Prof. Xiaomei Cai
         - GPA | 4.3/5.0 (Top 2%)
-    - title: PhD. candidate of Mechanical Engineering
-      institution: Xiamen University (985 project), CHINA
-      year: 2021.09-2022.12
-      description:
-        - Reason of quitting the PhD. | Lab’s research does not align with personal career paths.
 
 - title: Experience
   type: time_table
@@ -50,15 +45,15 @@
         - Provided a solution to improve the reliability, cost-efficiency and real-time recognition performance in Myo-electric multi-DOFs prosthetic application
         - Bio-signal acquisition system development & relevant experiment design and conducting
 
-    - title: PhD. Candidate
-      institution: Xiamen University (Quitted)
-      year: 2021 - 2022
+    - title: Research Assistant
+      institution: Xiamen University
+      year: 2021 - 2023
       description:
         - Proposed a positive design strategy with hyperelastic model for developing sensitivity tuned flexible pressure sensor
         - Fabricated prototype sensor verified its ultra-low sensitivity error on targeted requirement over 200 kPa
-        - Applied the proposed sensor in physiological signal recognition via machine learning
         - Lead a research group for developing the high temperature-resistant flexible sensor array for aerospace application
         - Conducted experiments on developing ultrahigh temperature-resistance flexible sensor based on EGaIn composites
+        - Proposed a high-performance electro-ionic soft actuator featuring with ultralow actuating input of 0.5 V with 30 Hz
 
 - title: Open Source Projects
   type: time_table
