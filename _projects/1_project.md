@@ -4,7 +4,7 @@ title: Wearable Electronics
 description: modified hyperelastic model and extended customised scenarios
 img: assets/img/projects/01_sensor_model/01preview.png
 importance: 1
-category: PhD
+category: RA
 ---
 
 Here, a positive design strategy with a hyperelastic model and a Hertzian contact model for comparison was proposed to develop a flexible pressure sensor with highly customizable linear sensitivity and linearity, in which the microstructure distribution was precalculated according to the desired requirement prior to fabrication. As a proof of concept, three flexible pressure sensors exhibited different sensitivities over a linear region of up to 200 kPa, with a low sensitivity error (< 5%) and high linearity (~ 0.99), as expected. 
