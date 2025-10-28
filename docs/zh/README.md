@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 首页
 heroImage: /uigf-logo128.png
-heroText: UIGF-org
+heroText: amluckydave-pro
 tagline: 统一标准化的原神数据格式
 actions:
 - text: 标准化文档
@@ -28,7 +28,7 @@ features:
     link: standards/uiaf.html
 
 copyright: false
-footer: MIT Licensed | Copyright © 2021-present UIGF-org
+footer: MIT Licensed | Copyright © 2025-present amluckydave-pro
 ---
 
 <!-- @include: partnership-list.md -->

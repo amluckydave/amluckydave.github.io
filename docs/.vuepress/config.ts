@@ -17,7 +17,7 @@ export default defineUserConfig({
     "/zh/": {
       lang: "zh-CN",
       title: "amluckydave-pro",
-      description: "统一可交换原神数据标准",
+      description: "木叶飞舞之处，火之意志生生不息",
     },
   },
 
